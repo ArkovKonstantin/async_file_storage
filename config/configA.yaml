@@ -1,0 +1,8 @@
+name: "A"
+host: "localhost"
+port: 9001
+node_urls: [
+  "http://localhost:9002",
+  "http://localhost:9003"
+]
+dir_path: ./tmp/dirA
